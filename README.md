@@ -4,6 +4,10 @@ A Claude Code plugin that applies the Yield framework to help you build software
 
 **The Yield Philosophy:** Use first principles to find what compounds, then get out of its way.
 
+This is the AppSprout org copy. Origin: [jkbennitt/yield-framework](https://github.com/jkbennitt/yield-framework).
+
+Companion Grok Build process skills: [AppSprout-dev/grok-skills](https://github.com/AppSprout-dev/grok-skills).
+
 ## What This Plugin Does
 
 - **Automatic Detection**: Flags cleverness debt patterns after every file edit
@@ -14,7 +18,7 @@ A Claude Code plugin that applies the Yield framework to help you build software
 ## Installation
 
 ```bash
-/plugin marketplace add your-username/yield-framework
+/plugin marketplace add AppSprout-dev/yield-framework
 /plugin install yield-framework
 ```
 
@@ -51,4 +55,4 @@ MIT
 
 ## Author
 
-Built by AppSprout — [appsprout.com](https://appsprout.dev)
+Built by AppSprout — [appsprout.dev](https://appsprout.dev)
