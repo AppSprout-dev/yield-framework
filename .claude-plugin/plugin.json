@@ -6,8 +6,8 @@
     "name": "AppSprout",
     "email": "plugin@appsprout.dev"
   },
-  "homepage": "https://github.com/jkbennitt/yield-framework",
-  "repository": "https://github.com/jkbennitt/yield-framework",
+  "homepage": "https://github.com/AppSprout-dev/yield-framework",
+  "repository": "https://github.com/AppSprout-dev/yield-framework",
   "license": "MIT",
   "keywords": [
     "yield",
